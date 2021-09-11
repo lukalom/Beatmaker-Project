@@ -1,2 +1,2 @@
-# Beatmaker-Project
+Simple Javascript DOM project. 
  
